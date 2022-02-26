@@ -1,0 +1,44 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  min-width: 100%;
+
+}
+
+#particles-js {
+  height: 100%;
+  width: 100%;
+  background-color: #003566;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.particles-js-canvas-el {
+  position: absolute;
+}
+
+h1 {
+  height: 100px;
+  font-family: 'Shizuru', cursive;
+  color: aliceblue;
+}
+
+.mainbox {
+  width: 100%;
+  height: 1000px;
+
+}
+
+.container {
+  background-color: #ffc300;
+  font-weight: 400;
+  max-width: 75%;
+  height: 500px;
+  border-radius: 10%;
+  margin: auto;
+  font-family: 'Dancing Script', cursive;
+  font-size: 2rem;
+  display: flex;
+}
